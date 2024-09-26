@@ -1,0 +1,14 @@
+/home/user/c-vanilla/bin/Debug/net8.0/c-vanilla
+/home/user/c-vanilla/bin/Debug/net8.0/c-vanilla.deps.json
+/home/user/c-vanilla/bin/Debug/net8.0/c-vanilla.runtimeconfig.json
+/home/user/c-vanilla/bin/Debug/net8.0/c-vanilla.dll
+/home/user/c-vanilla/bin/Debug/net8.0/c-vanilla.pdb
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.AssemblyInfoInputs.cache
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.AssemblyInfo.cs
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.csproj.CoreCompileInputs.cache
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.dll
+/home/user/c-vanilla/obj/Debug/net8.0/refint/c-vanilla.dll
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.pdb
+/home/user/c-vanilla/obj/Debug/net8.0/c-vanilla.genruntimeconfig.cache
+/home/user/c-vanilla/obj/Debug/net8.0/ref/c-vanilla.dll
